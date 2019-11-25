@@ -1,0 +1,16 @@
+Step by Step
+
+Jalankan file install.py untuk menginstall module yang diperlulan
+=> python install.py
+
+Lalu jalankan file grabproxy.py untuk mendapatkan proxy dan di save di file proxylist.txt
+=> python grabproxy.py
+
+Lalu jalankan file proxycheck.py
+=> python proxycheck.py
+
+terakhir, jalankan file remitly.py
+=> python remitly.py list.txt
+
+
+Recommended pake vps agar fast
